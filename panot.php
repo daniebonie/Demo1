@@ -1,3 +1,3 @@
 <?php 
-  echo "Hello Panot!"
+  echo "Hello pilipinas!"
 ?>
